@@ -1,4 +1,4 @@
-# BioSCape-io Organization
+# BioSCape.io
 
 This GitHub organization serves as a central repository for code, data, and documentation related to the [BioSCape campaign](http://bioscape.io), an international collaboration focused on revolutionizing biodiversity monitoring and conservation through remote sensing technologies.
 
